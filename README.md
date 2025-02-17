@@ -1,6 +1,5 @@
 How to Use:
-Download the files.
-Then Open : (Vrinda Store Data Analysis.xlsx) to explore the insights interactively.
+Cliquer sur "Analyse des données du magasin Vrinda.xlsx", Puis "Voir brut" pour télécharger le fichier 
 
 
 
