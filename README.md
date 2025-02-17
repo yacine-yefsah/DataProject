@@ -15,6 +15,8 @@ This project analyzes the 2022 sales data for Vrinda Store, an Indian retail sto
 ## Tools Used
 - Excel (Pivot Tables, Charts, Data Cleaning)
 
+## Mode d'emploi
+Cliquer sur 'Vrinda Store Data Analysis.xlsx' ensuite 'Voir brut' pour télécharger le fichier.
 
 
 
